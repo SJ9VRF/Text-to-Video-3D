@@ -44,6 +44,6 @@ You can modify the text prompts directly in the main.py file to create different
 ## Extending the Project
 Feel free to add more functionalities, such as:
 
-Real-time text input for generating images on the fly.
-Integration with web frameworks for an interactive user interface.
-More complex transformations and effects.
+- Real-time text input for generating images on the fly.
+- Integration with web frameworks for an interactive user interface.
+- More complex transformations and effects.
