@@ -36,7 +36,7 @@ Download the necessary VQGAN model configuration and checkpoint files. These fil
 
 ## Usage
 Run the main script to generate frames based on predefined text prompts. Each frame is saved as an image in the output directory.
-    ```bash
+   ```bash
    python src/main.py
    ```
 You can modify the text prompts directly in the main.py file to create different images.
