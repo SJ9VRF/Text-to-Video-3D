@@ -31,3 +31,19 @@ This project combines the capabilities of VQGAN (Vector Quantized Generative Adv
     pip install -r requirements.txt
    ```
 3. **Install dependencies**
+Download the necessary VQGAN model configuration and checkpoint files. These files should be placed in the appropriate directories specified in the main script.
+
+
+## Usage
+Run the main script to generate frames based on predefined text prompts. Each frame is saved as an image in the output directory.
+    ```bash
+   python src/main.py
+   ```
+You can modify the text prompts directly in the main.py file to create different images.
+
+## Extending the Project
+Feel free to add more functionalities, such as:
+
+Real-time text input for generating images on the fly.
+Integration with web frameworks for an interactive user interface.
+More complex transformations and effects.
